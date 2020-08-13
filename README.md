@@ -7,8 +7,8 @@
 
 > Undergraduate student @ University of Dhaka <br/>
 > Aspiring Software engineer <br/>
-> OpenSource enthusiast, web development enthusiast
-I love to develop web applications using html,css,javascript . Currently pursuing Computer Science and Engineering degree at University of Dhaka. I love talking about things i am passionate about which is mostly anything interesting
+> OpenSource enthusiast, web development enthusiast <br/>
+I love to develop web applications using html,css,javascript. Currently pursuing Computer Science and Engineering degree at University of Dhaka. I love talking about things i am passionate about which is mostly anything interesting
 
 ### Things you should know
 
