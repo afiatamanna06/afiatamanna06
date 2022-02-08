@@ -18,6 +18,12 @@ I love to develop web applications using React.js , javascript and CSS. Currentl
 - ⚗️ <b>Experimenting on:</b> Improving the efficiency of my code
 - 💬 <b>Ask me about:</b> Frontend web , Manga, Manhwa , Music
 
+#### Platforms & Languages
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-e6e600?style=flat-square&logo=JavaScript&logoColor=black"/>
+</p>
 
 ### My Stacks
 
