@@ -1,4 +1,4 @@
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=afiatamanna06&&show_icons=true&theme=tokyonight&count_private=true" alt="Jason's Github Stats"/>](https://github.com/afiatamanna06)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=afiatamanna06&&show_icons=true&theme=github_dark&count_private=true" alt="Jason's Github Stats"/>](https://github.com/afiatamanna06)
 
 # Hello, I am Afia Anjum Tamanna! Nice to meet you
 
@@ -17,6 +17,7 @@ I love to develop web applications using React.js , javascript and CSS. Currentl
 - 🤔 <b>Exploring:</b>  Clean Code , Reusability
 - ⚗️ <b>Experimenting on:</b> Improving the efficiency of my code
 - 💬 <b>Ask me about:</b> Frontend web , Manga, Manhwa , Music
+
 
 ### My Stacks
 
