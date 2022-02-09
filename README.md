@@ -27,6 +27,12 @@ I love to develop web applications using React.js , javascript and CSS. Currentl
   <img src="https://img.shields.io/badge/Python-005580?style=flat-square&logo=Python&logoColor=white"/>
 </p>
 
+#### Tools
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+</p>
+
 ### My Stacks
 
 ```json
