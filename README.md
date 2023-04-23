@@ -24,6 +24,7 @@ I love to develop web applications using React.js , javascript and CSS. Currentl
 <p>
   <img src="https://img.shields.io/badge/-Next.JS-0A1A2F?style=flat&logo=next.js"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Astro-17191e?style=flat&logo=astro"/>
   <img src="https://img.shields.io/badge/JavaScript-e6e600?style=flat-square&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Chakra UI-%234ED1C5.svg?style=flat-square&logo=chakraui&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
