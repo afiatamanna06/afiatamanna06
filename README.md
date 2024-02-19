@@ -52,7 +52,6 @@ I love to develop web applications using React.js, JavaScript, and CSS. Currentl
   "frameworks/libraries": {
     "backend": ["python"],
     "frontend": ["React", "CSS", "Next-js", "Chakra-UI"],
-    
   },
   "database":  ["MySql", "Oracle"],
   "misc": ["Firebase"],
