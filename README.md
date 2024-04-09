@@ -10,7 +10,7 @@
 > Experimenting with Frontend UIs and frameworks, Js enthusiast <br/>
 > Aspiring Frontend Software engineer <br/>
 > OpenSource enthusiast, web development enthusiast <br/>
-I love to develop web applications using React.js, JavaScript, and CSS. Currently working as a Software Engineer at _fringecore, City Group. I love talking about things I am passionate about which is mostly anything interesting
+I love to develop web applications using React.js, JavaScript, and CSS. Currently working as a Founding Software Engineer at Void Studio. I love talking about things I am passionate about which is mostly anything interesting
 
 ### Things you should know
 
